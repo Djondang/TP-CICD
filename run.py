@@ -2,6 +2,7 @@
 CI/CD
 """
 import pandas as pd
+import random
 
 def main():
     """
