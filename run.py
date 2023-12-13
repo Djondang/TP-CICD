@@ -2,9 +2,7 @@
 CI/CD
 """
 
-import os
 import pandas as pd
-import random
 
 
 def main():
